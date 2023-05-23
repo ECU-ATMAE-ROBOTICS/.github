@@ -6,16 +6,9 @@ Welcome to the GitHub repository of the ECU ATMAE Robotics Team! This repository
 
 The ECU ATMAE Robotics Team is a student-led organization at East Carolina University focused on exploring and advancing robotics technologies. Our team is dedicated to hands-on learning, collaboration, and innovation in the field of robotics.
 
-## Repository Structure
-
-- `/projects`: Contains subdirectories for each of our robotics projects.
-- `/code`: Stores the codebase and software related to our projects.
-- `/documentation`: Holds documentation, guides, and technical resources.
-- `/media`: Stores media files such as images, videos, and design assets.
-
 ## Getting Started
 
-If you're new to our repository or interested in contributing, check out the following resources:
+If you're new or interested in contributing, check out the following resources:
 
 - [Contributing Guidelines](CONTRIBUTING.md): Learn how to contribute to our projects and follow our development workflow.
 - [Code of Conduct](CODE_OF_CONDUCT.md): Review our guidelines for fostering an inclusive and respectful community.
@@ -33,19 +26,15 @@ Feel free to explore the respective project directories for detailed information
 
 ## Documentation
 
-In the `/documentation` directory, you'll find useful guides, technical documentation, and resources related to our robotics projects. Here are some key documents:
-
-- **Getting Started Guide**: Instructions for setting up the development environment and getting started with our projects.
-- **API Reference**: Documentation for our custom libraries, APIs, or frameworks.
-- **Hardware Configuration**: Details on the hardware components, wiring diagrams, and setup instructions.
+At our [website](https://ecu-atmae-robotics.github.io/ecu-robotics/), you'll find useful guides, technical documentation, and resources related to our robotics projects.
 
 ## Contact Us
 
 If you have any questions, suggestions, or would like to collaborate with us, feel free to reach out:
 
 - Email: [robotics-team@example.com](mailto:robotics-team@example.com)
-- Website: [https://example.com](https://example.com)
-- Twitter: [@ECUATMAERobotics](https://twitter.com/ECUATMAERobotics)
+- Website: [https://ecu-atmae-robotics.github.io/ecu-robotics/]([https://example.com](https://ecu-atmae-robotics.github.io/ecu-robotics/))
+
 
 We look forward to hearing from you!
 
