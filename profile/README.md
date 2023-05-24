@@ -18,9 +18,9 @@ If you're new or interested in contributing, check out the following resources:
 
 Here are some of our ongoing and past projects:
 
-- **Project 1**: Description and link to project repository or relevant documentation.
-- **Project 2**: Description and link to project repository or relevant documentation.
-- **Project 3**: Description and link to project repository or relevant documentation.
+- 2023 Comp Robot (To be named): [[Repo](https://github.com/ECU-ATMAE-ROBOTICS/ATMAE-2023)] [WIP]
+- PAPI: [[Repo](https://github.com/ECU-ATMAE-ROBOTICS/PAPI)] 2022 Competition Robot
+- Stepper Bro: [Repo to be acquired] 2021 Competition Robot
 
 Feel free to explore the respective project directories for detailed information, code, and other resources.
 
@@ -33,8 +33,7 @@ At our [website](https://ecu-atmae-robotics.github.io/ecu-robotics/), you'll fin
 If you have any questions, suggestions, or would like to collaborate with us, feel free to reach out:
 
 - Email: [robotics-team@example.com](mailto:robotics-team@example.com)
-- Website: [https://ecu-atmae-robotics.github.io/ecu-robotics/]([https://example.com](https://ecu-atmae-robotics.github.io/ecu-robotics/))
-
+- Website: [https://ecu-atmae-robotics.github.io/ecu-robotics/](https://ecu-atmae-robotics.github.io/ecu-robotics/))
 
 We look forward to hearing from you!
 
