@@ -12,7 +12,6 @@ If you're new or interested in contributing, check out the following resources:
 
 - [Contributing Guidelines](https://ecu-atmae-robotics.github.io/ecu-robotics/src/contributing/contributing.html): Learn how to contribute to our projects and follow our development workflow.
 - [Code of Conduct](https://ecu-atmae-robotics.github.io/ecu-robotics/src/policies/code-of-conduct.html): Review our guidelines for fostering an inclusive and respectful community.
-- [Project Roadmap](https://link-to-project-roadmap): Explore our current and upcoming projects.
 
 ## Projects
 
