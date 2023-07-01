@@ -17,9 +17,15 @@ If you're new or interested in contributing, check out the following resources:
 
 Here are some of our ongoing and past projects:
 
+### Competition
 - 2023 Comp Robot (To be named): [[Repo](https://github.com/ECU-ATMAE-ROBOTICS/ATMAE-2023)] [WIP]
 - PAPI: [[Repo](https://github.com/ECU-ATMAE-ROBOTICS/PAPI)] 2022 Competition Robot
 - Stepper Bro: [Repo to be acquired] 2021 Competition Robot
+
+### Internal
+- CyberSage: [[Repo](https://github.com/ECU-ATMAE-ROBOTICS/CyberSage)] Bot used in our discord server
+- Team Website: [[Repo](https://github.com/ECU-ATMAE-ROBOTICS/ecu-robotics)] Our organization's website
+
 
 Feel free to explore the respective project directories for detailed information, code, and other resources.
 
