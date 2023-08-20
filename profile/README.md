@@ -37,7 +37,7 @@ At our [website](https://ecu-atmae-robotics.github.io/ecu-robotics/), you'll fin
 
 If you have any questions, suggestions, or would like to collaborate with us, feel free to reach out:
 
-- Email: [robotics-team@example.com](mailto:robotics-team@example.com)
+- Email: [sawtello21@students.ecu.edu](mailto:sawtello21@students.ecu.edu)
 - Website: [https://ecu-atmae-robotics.github.io/ecu-robotics/](https://ecu-atmae-robotics.github.io/ecu-robotics/)
 
 We look forward to hearing from you!
