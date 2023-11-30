@@ -18,7 +18,7 @@ If you're new or interested in contributing, check out the following resources:
 Here are some of our ongoing and past projects:
 
 ### Competition
-- Dumpy [Repo to be acquired] Companion Robot to PATCHY
+- Dumpy [[Repo](https://github.com/ECU-ATMAE-ROBOTICS/Dumpy)] Companion Robot to PATCHY
 - Forky [Repo to be acquired] Companion Robot to PATCHY
 - PATCHY: [[Repo](https://github.com/ECU-ATMAE-ROBOTICS/ATMAE-2023)]  2023 Competition Robot
 - PAPI: [[Repo](https://github.com/ECU-ATMAE-ROBOTICS/PAPI)] 2022 Competition Robot
