@@ -18,7 +18,7 @@ If you're new or interested in contributing, check out the following resources:
 Here are some of our ongoing and past projects:
 
 ### Competition
-- 2023 Comp Robot (To be named): [[Repo](https://github.com/ECU-ATMAE-ROBOTICS/ATMAE-2023)] [WIP]
+- PATCHY: [[Repo](https://github.com/ECU-ATMAE-ROBOTICS/ATMAE-2023)] [WIP] 2023 Competition Robot
 - PAPI: [[Repo](https://github.com/ECU-ATMAE-ROBOTICS/PAPI)] 2022 Competition Robot
 - Stepper Bro: [Repo to be acquired] 2021 Competition Robot
 
