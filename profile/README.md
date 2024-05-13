@@ -11,7 +11,7 @@ The ECU ATMAE Robotics Team is a student-led organization at East Carolina Unive
 If you're new or interested in contributing, check out the following resources:
 
 - [Contributing Guidelines](https://ecu-atmae-robotics.github.io/ecu-robotics/src/contributing/contributing.html): Learn how to contribute to our projects and follow our development workflow.
-- [Code of Conduct](https://ecu-atmae-robotics.github.io/ecu-robotics/src/policies/code-of-conduct.html): Review our guidelines for fostering an inclusive and respectful community.
+- [Code of Conduct](https://policy.ecu.edu/11/30/01): Review our guidelines for fostering an inclusive and respectful community.
 
 ## Projects
 
