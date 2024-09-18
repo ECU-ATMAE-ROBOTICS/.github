@@ -23,6 +23,7 @@ Here are some of our ongoing and past projects:
 - PATCHY: [[Repo](https://github.com/ECU-ATMAE-ROBOTICS/ATMAE-2023)]  2023 Competition Robot
 - PAPI: [[Repo](https://github.com/ECU-ATMAE-ROBOTICS/PAPI)] 2022 Competition Robot
 - Stepper Bro: [Repo to be acquired] 2021 Competition Robot
+- Shopping Carrght 2024 Compeition Robot (IN PROGRESS)
 
 ### Internal
 - CyberSage: [[Repo](https://github.com/ECU-ATMAE-ROBOTICS/CyberSage)] Bot used in our discord server
