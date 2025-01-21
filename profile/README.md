@@ -18,12 +18,10 @@ If you're new or interested in contributing, check out the following resources:
 Here are some of our ongoing and past projects:
 
 ### Competition
-- Dumpy [[Repo](https://github.com/ECU-ATMAE-ROBOTICS/Dumpy)] Companion Robot to PATCHY
-- Forky [Repo to be acquired] Companion Robot to PATCHY
-- PATCHY: [[Repo](https://github.com/ECU-ATMAE-ROBOTICS/ATMAE-2023)]  2023 Competition Robot
-- PAPI: [[Repo](https://github.com/ECU-ATMAE-ROBOTICS/PAPI)] 2022 Competition Robot
-- Stepper Bro: [Repo to be acquired] 2021 Competition Robot
-- Shopping Carrght 2024 Compeition Robot (IN PROGRESS)
+- [Shopping Carrght](https://github.com/ECU-ATMAE-ROBOTICS/ATMAE-2024) - 2024 
+- [PATCHY](https://github.com/ECU-ATMAE-ROBOTICS/ATMAE-2023) - 2023
+- [PAPI](https://github.com/ECU-ATMAE-ROBOTICS/PAPI) - 2022
+- Stepper Bro - 2021
 
 ### Internal
 - CyberSage: [[Repo](https://github.com/ECU-ATMAE-ROBOTICS/CyberSage)] Bot used in our discord server
@@ -36,7 +34,7 @@ Feel free to explore the respective project directories for detailed information
 
 If you have any questions, suggestions, or would like to collaborate with us, feel free to reach out:
 
-- Email: [sawtello21@students.ecu.edu](mailto:sawtello21@students.ecu.edu)
+- Email: [Heath Faircloth](fairclothh22@students.ecu.edu)
 - Website: [https://ecu-atmae-robotics.github.io/ecu-robotics/](https://ecu-atmae-robotics.github.io/ecu-robotics/)
 
 We look forward to hearing from you!
