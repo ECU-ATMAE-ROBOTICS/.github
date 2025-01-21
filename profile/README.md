@@ -34,7 +34,7 @@ Feel free to explore the respective project directories for detailed information
 
 If you have any questions, suggestions, or would like to collaborate with us, feel free to reach out:
 
-- Email: [Heath Faircloth](fairclothh22@students.ecu.edu)
+- Email: Heath Faircloth (fairclothh22@students.ecu.edu)
 - Website: [https://ecu-atmae-robotics.github.io/ecu-robotics/](https://ecu-atmae-robotics.github.io/ecu-robotics/)
 
 We look forward to hearing from you!
