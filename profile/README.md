@@ -27,14 +27,10 @@ Here are some of our ongoing and past projects:
 
 ### Internal
 - CyberSage: [[Repo](https://github.com/ECU-ATMAE-ROBOTICS/CyberSage)] Bot used in our discord server
-- Team Website: [[Repo](https://github.com/ECU-ATMAE-ROBOTICS/ecu-robotics)] Our organization's website
+- Team Website: [[Repo](https://github.com/ECU-ATMAE-ROBOTICS/ecu-robotics-website)] Our organization's website
 
 
 Feel free to explore the respective project directories for detailed information, code, and other resources.
-
-## Documentation
-
-At our [website](https://ecu-atmae-robotics.github.io/ecu-robotics/), you'll find useful guides, technical documentation, and resources related to our robotics projects.
 
 ## Contact Us
 
