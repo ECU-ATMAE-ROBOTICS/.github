@@ -41,5 +41,5 @@ We look forward to hearing from you!
 
 ## License
 
-This repository is licensed under the [AGPL-3 License](LICENSE).
+This repository is licensed under the [AGPL-3 License](../LICENSE).
 
